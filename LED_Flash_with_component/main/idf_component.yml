@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/Suwaphat04/Week10_LED_TEST.git  # ใส่ URL ของคุณ
+    path: S66030295/LED                                       # ทำให้ตรงกับโครง repo จริง

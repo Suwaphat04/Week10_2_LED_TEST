@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: ccb1436d4d2c1c7514b88470015f90370092b32c8ef899135bfc8d6e9ea657eb
+    dependencies: []
+    source:
+      git: https://github.com/Suwaphat04/Week10_LED_TEST.git
+      path: S66030295/LED
+      type: git
+    version: 7be1df6077a58b76b5a3136345d69dba5100735a
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: 073ec6975511d50f1544fc2b57d53f6db55bbb2486c15323790fb5aef8ae9b0f
+target: esp32
+version: 2.0.0
